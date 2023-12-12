@@ -11,7 +11,7 @@
 
 <section>
    <img src="https://i.imgur.com/p2yQhbh.png" width="100" height="100" />
-   <img src="https://i.imgur.com/lumOH1O.png"  width="100" height="100"style="border-radius: 10px;"/>
+   <img src="https://i.imgur.com/lumOH1O.png"  width="100" height="100"style="border-radius: 10;"/>
 </section>
 
 
