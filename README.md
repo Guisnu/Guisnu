@@ -4,7 +4,7 @@
 <br>
 <br>
 <div>
-   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisnu&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages" width=100%> 
+   <img loading="lazy" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisnu&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages" width=100%> 
 </div>
 
 <h2> I'm learning...</h2>
