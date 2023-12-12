@@ -17,5 +17,3 @@
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256"  width="100" height="100" alt="Logo-Html"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256"  width="100" height="100" alt="Logo-Css"/>
 </section>
-
-
