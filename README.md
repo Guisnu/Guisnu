@@ -10,8 +10,8 @@
 <h2> I'm learning...</h2>
 
 <section>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" width="20%" height="20%" alt="Logo-Python"/>
-   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=webp&w=256"  width="100" height="100"alt="Logo-JavaScript"/>
+   <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" width="50" height="50" alt="Logo-Python"/>
+   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=webp&w=256"  width="50" height="50"alt="Logo-JavaScript"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3628863-3030003.png?f=webp&w=256"  width="100" height="100"alt="Logo-Jquery"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-226077.png?f=webp&w=256"  width="100" height="100"alt="Logo-Bootstrap"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256"  width="100" height="100" alt="Logo-Html"/>
