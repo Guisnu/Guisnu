@@ -10,7 +10,7 @@
 <h2> I'm learning...</h2>
 
 <section>
-   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm" width="100" height="100" />
+   <img src="https://hyper.fun/c/ionicons-logo-python/0.0.0" width="100" height="100" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  width="100" height="100"/>
 </section>
 
