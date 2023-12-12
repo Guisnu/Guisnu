@@ -11,7 +11,7 @@
 
 <section>
    <img src="https://i.imgur.com/p2yQhbh.png" width="100" height="100" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  width="100" height="100"/>
+   <img src="https://i.imgur.com/lumOH1O.png"  width="100" height="100"/>
 </section>
 
 
