@@ -1,25 +1,20 @@
-<h1 align = "center"> Guilherme Nunes</h1>
-<div align = "center">
-<b>Software Engineering Student</b>
-<br>
-<br>
+<h1> Guilherme Nunes</h1>
 <div>
-   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisnu&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages" width=100%> 
+<div align = "start">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guisnu&show_icons=true&theme=transparent">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisnu&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages">
+</div>
+<div style = "display: inline_block;" align = "start"><br>
+   <img align = "center" alt="Gui-Python" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+   <img align = "center" alt="Gui-JavaScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+   <img align = "center" alt="Gui-Jquery" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
+   <img align = "center" alt="Gui-Bootstrap" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+   <img align = "center" alt="Gui-Html" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+   <img align = "center" alt="Gui-Css" width="40" height="30"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </div>
 
-<h2> I'm learning...</h2>
+##
 
-<section>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-python-2-226051.png?f=webp&w=256" width="70" height="70" alt="Logo-Python"/>
-   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=webp&w=256"  width="70" height="70"alt="Logo-JavaScript"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3628863-3030003.png?f=webp&w=256"  width="70" height="70"alt="Logo-Jquery"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-226077.png?f=webp&w=256"  width="70" height="70"alt="Logo-Bootstrap"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256"  width="70" height="70" alt="Logo-Html"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256"  width="70" height="70" alt="Logo-Css"/>
-</section>
-
-<h2>Social networks</h2>
-
-<section align = "start">
-   <a href="https://www.linkedin.com/in/guilherme-macena"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=webp&w=256" width="70" height="70" alt="logo-linkedin"></a>
-</section>
+<div>
+<a href="https://www.linkedin.com/in/guilherme-macena/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gui-Linkedin" target = "_Blank"></a>
+</div>
