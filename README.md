@@ -17,7 +17,7 @@
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256"  width="70" height="70" alt="Logo-Html"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256"  width="70" height="70" alt="Logo-Css"/>
 </section>
-<hr>
+
 <section align-items = "start" display = "flex">
 <a href="https://www.linkedin.com/in/guilherme-macena"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=webp&w=256" width="70" height="70" alt="logo-linkedin"></a>
 </section>
