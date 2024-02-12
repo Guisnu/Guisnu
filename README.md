@@ -19,7 +19,5 @@
 </section>
 <hr>
 <section>
-<ul>
-    <li><a href="https://www.linkedin.com/in/guilherme-macena"><img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/linkedin-4865708-4095890.mp4" alt="gif-linkedin"></a></li>
-</ul>
+<a href="https://www.linkedin.com/in/guilherme-macena"><img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/linkedin-4865708-4095890.mp4" alt="gif-linkedin"></a>
 </section>
