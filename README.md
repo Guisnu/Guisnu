@@ -3,7 +3,7 @@
 🇺🇸
 <br>
 Hello! I'm currently studying Software Engineering at FIAP. I have experience in web development and am proficient in the following technologies: Python, jQuery, HTML, CSS, Git & GitHub, Bootstrap, JavaScript, JSON and Networks.
-
+<br>
 In the coming years, my focus is to specialize in C#, .NET Maui and Xamarin Forms. I am committed to deepening my knowledge in these areas and am actively seeking opportunities that allow me to apply and expand my skills.
 
 ##
@@ -11,6 +11,7 @@ In the coming years, my focus is to specialize in C#, .NET Maui and Xamarin Form
 🇧🇷
 <br>
 Olá! Atualmente estou cursando Engenharia de Software na FIAP. Tenho experiência em desenvolvimento web e sou proficiente nas seguintes tecnologias: Python, jQuery, HTML, CSS, Git & GitHub, Bootstrap, JavaScript, JSON e Redes.
+<br>
 Nos próximos anos meu foco será me especializar em C#, .NET Maui e Xamarin Forms. Estou empenhado em aprofundar os meus conhecimentos nestas áreas e procuro ativamente oportunidades que me permitam aplicar e expandir as minhas competências.
 
 <div>
