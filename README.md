@@ -1,5 +1,5 @@
-<h1 align="center"> Guilherme Nunes</h1>
-<div align="center">
+<h1 align = "center"> Guilherme Nunes</h1>
+<div align = "center">
 <b>Software Engineering Student</b>
 <br>
 <br>
@@ -18,6 +18,6 @@
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256"  width="70" height="70" alt="Logo-Css"/>
 </section>
 <hr>
-<section align-items: start;>
+<section align-items = "start">
 <a href="https://www.linkedin.com/in/guilherme-macena"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=webp&w=256" width="70" height="70" alt="logo-linkedin"></a>
 </section>
