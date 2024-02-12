@@ -17,3 +17,9 @@
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256"  width="70" height="70" alt="Logo-Html"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256"  width="70" height="70" alt="Logo-Css"/>
 </section>
+<hr>
+<section>
+<ul>
+    <li><a href="https://www.linkedin.com/in/guilherme-macena"><img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/linkedin-4865708-4095890.mp4" alt="gif-linkedin"></a></li>
+</ul>
+</section>
