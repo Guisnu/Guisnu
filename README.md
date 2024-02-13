@@ -1,6 +1,6 @@
 <h1> Guilherme Nunes</h1>
 <br>
-🇺🇸
+<h3>🇺🇸</h3>
 <br>
 Hello! I'm currently studying Software Engineering at FIAP. I have experience in web development and am proficient in the following technologies: Python, jQuery, HTML, CSS, Git & GitHub, Bootstrap, JavaScript, JSON and Networks.
 <br>
@@ -8,7 +8,7 @@ In the coming years, my focus is to specialize in C#, .NET Maui and Xamarin Form
 
 ##
 
-🇧🇷
+<h3>🇧🇷</h3>
 <br>
 Olá! Atualmente estou cursando Engenharia de Software na FIAP. Tenho experiência em desenvolvimento web e sou proficiente nas seguintes tecnologias: Python, jQuery, HTML, CSS, Git & GitHub, Bootstrap, JavaScript, JSON e Redes.
 <br>
