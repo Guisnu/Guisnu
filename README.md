@@ -16,8 +16,8 @@ Nos próximos anos, meu foco é me especializar em C#, .NET Maui, Xamarin Forms,
 
 <div>
 <div align = "start">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guisnu&show_icons=true&theme=transparent">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisnu&layout=compact&langs_count=7&theme=transparent&title_color=4a86d1"  alt="Most used languages">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guisnu&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117"">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisnu&layout=compact&hide_border=true&title_color=dc143c&text_color=c9d1d9&bg_color=0d1117">
 </div>
 <div style = "display: inline_block;" align = "start"><br>
    <img align = "center" alt="Gui-Python" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -34,7 +34,6 @@ Nos próximos anos, meu foco é me especializar em C#, .NET Maui, Xamarin Forms,
 <a href="https://www.linkedin.com/in/guilherme-macena/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:guilhermenunes08925@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guisnu/guisnu/output/github-contribution-grid-snake-dark.svg">
