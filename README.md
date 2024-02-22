@@ -16,8 +16,8 @@ Nos próximos anos, meu foco é me especializar em C#, .NET Maui, Xamarin Forms,
 
 <div>
 <div align = "start">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guisnu&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117"">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisnu&layout=compact&hide_border=true&title_color=dc143c&text_color=c9d1d9&bg_color=0d1117">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guisnu&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117">
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisnu&layout=compact&hide_border=true&title_color=dc143c&text_color=c9d1d9&theme=transparent">
 </div>
 <div style = "display: inline_block;" align = "start"><br>
    <img align = "center" alt="Gui-Python" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
