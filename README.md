@@ -26,6 +26,7 @@ Nos próximos anos, meu foco é me especializar em C#, .NET Maui, Xamarin Forms,
    <img align = "center" alt="Gui-Bootstrap" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
    <img align = "center" alt="Gui-Html" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
    <img align = "center" alt="Gui-Css" width="40" height="30"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+   <img align = "center" alt="Gui-SASS" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 </div>
 
 ##
