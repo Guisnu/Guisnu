@@ -20,14 +20,14 @@ Nos próximos anos, meu foco é me especializar em C#, .NET Maui, Xamarin Forms,
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisnu&layout=compact&hide_border=true&title_color=dc143c&text_color=c9d1d9&theme=transparent">
 </div>
 <div style = "display: inline_block;" align = "start"><br>
-   <img align = "center" alt="icon-Python" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-   <img align = "center" alt="icon-JavaScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-   <img align = "center" alt="icon-Jquery" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
-   <img align = "center" alt="icon-Bootstrap" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
    <img align = "center" alt="icon-Html" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
    <img align = "center" alt="icon-Css" width="40" height="30"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-   <img align = "center" alt="icon-SASS" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+   <img align = "center" alt="icon-JavaScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+   <img align = "center" alt="icon-Python" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+   <img align = "center" alt="icon-Bootstrap" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+   <img align = "center" alt="icon-Jquery" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
    <img align = "center" alt="icon-React" width="40" height="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+   <img align = "center" alt="icon-SASS" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 </div>
 
 ##
