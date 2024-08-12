@@ -28,7 +28,8 @@ Nos próximos anos, meu foco é me especializar em desenvolvimento mobile Swift,
    <img align = "center" alt="icon-Jquery" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
    <img align = "center" alt="icon-React" width="40" height="30"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
    <img align = "center" alt="icon-SASS" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-   <img align = "center" alt="icon-SASS" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>      
+   <img align = "center" alt="icon-Csharp" width="40" height="30"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>      
+   <img align = "center" alt="icon-Java" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>      
 </div>
 
 ##
