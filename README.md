@@ -4,7 +4,6 @@
 <br>
 Hello! I'm currently studying Software Engineering at FIAP. I have experience in web development and am proficient in the following technologies: Java, Python, React, HTML, CSS, Git & GitHub, Bootstrap, JavaScript.
 <br>
-In the coming years, my focus is to specialize in Swift, Kotlin, Flutter and Java mobile development. I am committed to deepening my knowledge in these areas and am actively seeking opportunities that allow me to apply and expand my skills.
 
 ##
 
@@ -12,7 +11,6 @@ In the coming years, my focus is to specialize in Swift, Kotlin, Flutter and Jav
 <br>
 Olá! Atualmente, estou cursando Engenharia de Software na FIAP. Tenho experiência em desenvolvimento web e sou proficiente em nas tecnologias: Java, Python, React, HTML, CSS, Git & GitHub, Bootstrap, JavaScript.
 <br>
-Nos próximos anos, meu foco é me especializar em desenvolvimento mobile Swift, Kotlin, Flutter e Java. Estou comprometido em aprofundar meu conhecimento nessas áreas e estou ativamente buscando oportunidades que me permitam aplicar e expandir minhas habilidades.
 
 <div>
 <div align = "start">
