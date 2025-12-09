@@ -12,11 +12,6 @@ Hello! I'm currently studying Software Engineering at FIAP. I have experience in
 Olá! Atualmente, estou cursando Engenharia de Software na FIAP. Tenho experiência em desenvolvimento web e sou proficiente em nas tecnologias: Java, Python, React, HTML, CSS, Git & GitHub, Bootstrap, JavaScript.
 <br>
 
-<div>
-<div align = "start">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guisnu&show_icons=true&count_private=true&hide_border=true&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&theme=transparent">
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisnu&layout=compact&hide_border=true&title_color=dc143c&text_color=c9d1d9&theme=transparent">
-</div>
 <div style = "display: inline_block;" align = "start"><br>
    <img align = "center" alt="icon-Html" width="40" height="30"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
    <img align = "center" alt="icon-Css" width="40" height="30"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
