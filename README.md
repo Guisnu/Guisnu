@@ -2,14 +2,14 @@
 <br>
 🇺🇸
 <br>
-Hello! I'm currently studying Software Engineering at FIAP. I have experience in web development and am proficient in the following technologies: Java, Python, React, HTML, CSS, Git & GitHub, Bootstrap, JavaScript.
+Hello! I'm currently studying Software Engineering at FIAP. I have experience in web development and am proficient in the following technologies: Java, Python, React, JavaScript.
 <br>
 
 ##
 
 🇧🇷
 <br>
-Olá! Atualmente, estou cursando Engenharia de Software na FIAP. Tenho experiência em desenvolvimento web e sou proficiente em nas tecnologias: Java, Python, React, HTML, CSS, Git & GitHub, Bootstrap, JavaScript.
+Olá! Atualmente, estou cursando Engenharia de Software na FIAP. Tenho experiência em desenvolvimento web e sou proficiente em nas tecnologias: Java, Python, React, JavaScript.
 <br>
 
 <div style = "display: inline_block;" align = "start"><br>
